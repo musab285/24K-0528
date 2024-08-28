@@ -1,0 +1,12 @@
+•	Input num1 and num2 from the user
+•	Input operator
+•	Set a variable ‘result’ to 0
+•	If the operator is ‘+’, add the numbers (num1+num2)
+•	Store the answer in result
+•	If the operator is ‘-’, subtract the num2 from num1 (num1-num2)
+•	Store the answer in result
+•	If the operator is ‘*’, multiply the numbers (num1*num2)
+•	Store the answer in result
+•	If the operator is ‘/’, divide num1 by num2 (num1/num2)
+•	Store the answer in result
+•	Display the result to the user 
