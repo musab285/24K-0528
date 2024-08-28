@@ -1,0 +1,8 @@
+•	Read the Nth number
+•	Read the n number
+•	Check if n is divisible by Nth (n % Nth == 0)
+•	If yes, set result to n/Nth
+•	Check if result is divisible by 2 (result % 2 == 0)
+•	If yes, display that result is even
+•	If no, display that result is odd
+
