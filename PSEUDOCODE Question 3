@@ -1,0 +1,13 @@
+START
+INPUT num1, num2
+INPUT op 
+SET Answer to 0
+ 
+IF op ==  ‘+’ THEN 
+	SET Answer to num1 + num2
+ELSE IF op == ‘-‘ THEN
+	SET Answer to num1 – num2
+ELSE 
+	PRINT “Incorrect operator”
+PRINT Answer
+END
