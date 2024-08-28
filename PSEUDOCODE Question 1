@@ -1,0 +1,13 @@
+START
+INPUT num1
+INPUT num2
+INPUT num3
+SET largest to num1 
+
+IF num2 > largest THEN 
+	SET largest to num2
+IF num3 > largest THEN 
+	SET largest to num3
+ENDIF
+PRINT “Largest Number is: “ largest 
+END
