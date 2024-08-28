@@ -1,0 +1,9 @@
+START
+INPUT num1, num2, num3
+SET sum to 0
+SET neg_sum to 0
+
+neg_sum = 0 – number1 – number2 – number3
+SET sum to –neg_sum
+PRINT “The Sum is: “ sum
+END
