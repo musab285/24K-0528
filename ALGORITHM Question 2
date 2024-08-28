@@ -1,0 +1,5 @@
+•	Create an list of months names (starting from JAN ending at DEC)
+•	Read the number from user
+•	Read the month name on the index corresponding to the number from the list
+•	Display the month name to the user 
+
